@@ -1,0 +1,49 @@
+html,body{
+    background-color: #340054;
+    
+    margin: 0px;
+    padding: 0px;
+}
+header {
+    color: aliceblue;
+    margin: 0px;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    background-color: #7900c455;
+    text-align: center;
+    padding: 10px 0;
+    z-index: 1000;
+  }
+  main {
+    
+    background-color: rgb(255, 255, 255);
+    border: 7px solid rgb(0, 0, 0);
+    width: 600px;
+    height: 200px ; 
+    margin:  auto;
+    margin-top: 150px;
+    padding-top: 10px;
+    padding: 20px;
+    text-align: center;
+    border-radius: 20px;
+}
+button{
+    padding: 5px;
+    margin: 10px ;
+    color: aliceblue;
+    background-color: rgb(116, 116, 116);
+}
+ .resultado{
+    color: rgb(82, 82, 82);
+    background-color: rgb(255, 255, 255);
+    border: 7px solid rgb(0, 0, 0);
+    width: 200px;
+    height: 60px ; 
+    margin: 10px auto; 
+    text-align: center;
+    border-radius: 20px;
+
+ }
+ 
+
